@@ -1,0 +1,1 @@
+python3 test_model.py -fe /data/zhoujun/data/mutil_fonts_random/test.csv -o result/mutil_font/models_alexnet_mutil_font/ -m result/mutil_font/models_alexnet_mutil_font/  -g 0 -of result/test_model_alexnet.txt
