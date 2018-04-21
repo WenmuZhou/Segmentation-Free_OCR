@@ -31,9 +31,6 @@ def get_steo_acc_lose(log_path):
 if __name__ == '__main__':
     root_path = r'Z:\zhoujun\tf-crnn\result'
 
-    # labels = ['HCCR-AlexNet', 'HCCR-GoogLeNet', 'Ref. [10]', 'Proposed']
-    # labels1 = ['HCCR_AlexNet', 'HCCR_GoogLeNet', 'read_text_in_wild_with_CNN', 'SRCTR_GoogLeNet']
-    # colors = [(0, 112 / 255, 192 / 255), (112 / 255, 173 / 255, 71 / 255), (237 / 255, 125 / 255, 49 / 255), (1, 0, 0)]
     labels = ['AlexNet', 'GoogLeNet', 'VGG', 'Proposed']
     file_list = ['alexnet', 'googlenetv1', 'vgg', 'resnet']
     line_type_list = ['-', '-', '-', '-', '-']
