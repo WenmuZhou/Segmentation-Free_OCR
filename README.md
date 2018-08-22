@@ -1,6 +1,6 @@
 # Convolutional Recurrent Neural Network in Tensorflow (tf.crnn)
 
-this code is fork from <https://github.com/solivr/tf-crnn> and some modifications have been made.
+this code is fork from <https://github.com/solivr/tf-crnn> and modified.
 
 CRNN model in Tensorflow using Estimators
 
