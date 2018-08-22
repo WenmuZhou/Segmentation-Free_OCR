@@ -34,7 +34,6 @@ For example launch the script using :
 ```
 python3 train.py -g 1 -ft train_data.csv -o ./export_model_dir
 ```
-查看`train.py` 源码可以了解更多细节.
 
 ### Dependencies 
 * `tensorflow` (1.3)
